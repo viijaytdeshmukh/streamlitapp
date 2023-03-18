@@ -1,5 +1,5 @@
-import streamlit 
-streamlit.title('IP Trip Prediction')
-streamlit.header('Can Umesh travel ladakh?')
-streamlit.text('yes but orange inc should be give him leave then their are chances')
-                 
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
+
